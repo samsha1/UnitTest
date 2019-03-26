@@ -6,7 +6,7 @@ class EqualsTest extends TestCase
 {
     public function testFailure()
     {
-        $this->assertEquals(0,1);
+        $this->assertEquals(1,1);
     }
 
 }

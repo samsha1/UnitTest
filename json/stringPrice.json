@@ -1,0 +1,25 @@
+{
+		"_embedded": {
+			"menu_items": [
+				{
+					"id": "1",
+					"in_stock": null,
+					"name": "Pizza",
+					"open": false,
+					"pos_id": "101",
+					"price_per_unit": 899
+
+				},
+				{
+					"id": "2",
+					"in_stock": null,
+					"name": "Burger",
+					"open": false,
+					"pos_id": "101",
+					"price_per_unit":"gfsgd"
+
+				}
+			]
+
+		}
+}

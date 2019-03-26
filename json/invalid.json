@@ -1,0 +1,12 @@
+{
+  "menu_items": {
+    {
+      "name": "Pizza",
+      "price_per_unit": "87"
+    },
+    {
+      "name": "Pizza 2",
+      "price_per_unit": "898"
+    }
+  }
+}
